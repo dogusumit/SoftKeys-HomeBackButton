@@ -1,0 +1,309 @@
+{
+  "project_info": {
+    "project_number": "842250016601",
+    "firebase_url": "https://fir-projem.firebaseio.com",
+    "project_id": "fir-projem",
+    "storage_bucket": "fir-projem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:4a7a73c457ba917c",
+        "android_client_info": {
+          "package_name": "com.dogusumit.ikitariharasigunsayisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-5j62o3j8go1r7noff65tue57prcb59bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.ikitariharasigunsayisi",
+            "certificate_hash": "a8f5ef2e3b3a37c59d31585a388b38db640a35f3"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8WlV78S8piEzxNQO4LefDWyNK80pktk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:23e218ec1a2ccbde",
+        "android_client_info": {
+          "package_name": "com.dogusumit.faktoriyelveardisiksayilar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-l2rrqjuedol7e7ociol4lt9c6er3ubcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.faktoriyelveardisiksayilar",
+            "certificate_hash": "a8f5ef2e3b3a37c59d31585a388b38db640a35f3"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8WlV78S8piEzxNQO4LefDWyNK80pktk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:edc0bdc87d4715f9",
+        "android_client_info": {
+          "package_name": "com.dogusumit.resmitatiller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-3smcs95ur05qq1g3p6tu13bmcqa26p44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.resmitatiller",
+            "certificate_hash": "a8f5ef2e3b3a37c59d31585a388b38db640a35f3"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8WlV78S8piEzxNQO4LefDWyNK80pktk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:95c6792f339ccbb0",
+        "android_client_info": {
+          "package_name": "com.dogusumit.elfeneri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-lgdvrls5lom36hna0n1ka25i6gh2v2e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.elfeneri",
+            "certificate_hash": "f87f0173d1f523a84f066fc82aa711bbaea3af79"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8WlV78S8piEzxNQO4LefDWyNK80pktk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:1b2c57c7144b66a8",
+        "android_client_info": {
+          "package_name": "com.dogusumit.plakalar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-0e7nmc9th8t0efqkoi7im5masm8q2olj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.plakalar",
+            "certificate_hash": "f87f0173d1f523a84f066fc82aa711bbaea3af79"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8WlV78S8piEzxNQO4LefDWyNK80pktk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:ff8309e50a523e0c",
+        "android_client_info": {
+          "package_name": "com.dogusumit.imza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-sm5lrevsmjmrvgu5vn2pjekme69o3o7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.imza",
+            "certificate_hash": "f87f0173d1f523a84f066fc82aa711bbaea3af79"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8WlV78S8piEzxNQO4LefDWyNK80pktk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:675863dcdce26880",
+        "android_client_info": {
+          "package_name": "com.dogusumit.ortatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-0nnqi8bpmqknvvhucm16tie6suko6aet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.ortatus",
+            "certificate_hash": "f87f0173d1f523a84f066fc82aa711bbaea3af79"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8WlV78S8piEzxNQO4LefDWyNK80pktk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ekran Tuşu - Home Back Button</string>
+    <string name="str1">Ayarlar - Erişilebilirlik</string>
+    <string name="str2">Yeni İkon</string>
+    <string name="str3">Konumu ve Boyutu belirledikten sonra \"Ayarlar - Erişilebilirlik - Ekran Tuşu\" servisini açmalısın!</string>
+    <string name="aciklama">Seni buralara kadar getirmek istemezdim ama, ne yapalım ayarlarını değiştirmeye yetkim yok ki :(</string>
+    <string name="str4">Recents</string>
+    <string name="str5">Home</string>
+    <string name="str6">Back</string>
+    <string name="str7">Geri Tuşu solda olsun</string>
+    <string name="str8">Buton Çubuğunun Konumu : </string>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/3843570541</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="str9">Boyut : </string>
+    <string name="str10">Şeffaflık : </string>
+    <string name="str11">Uzun Basınca : </string>
+    <string name="str12">Konum Değiştir</string>
+    <string name="str13">Gizle</string>
+    <string name="str14">Tuşları göstermek için dokunun</string>
+    <string-array name="spiner_icin">
+        <item>Alt</item>
+        <item>Sağ</item>
+        <item>Sol</item>
+        <item>Üst</item>
+    </string-array>
+</resources>

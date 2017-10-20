@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Soft Keys - Home Back Button</string>
+    <string name="str1">Settings - Accessibility</string>
+    <string name="str2">New Icons</string>
+    <string name="str3">After set location and size, \"Settings - Accessibility - Soft Keys - Home Back Button\" service should be on!</string>
+    <string name="aciklama">I would not want to bring you here, but i dont have authority to change settings :(</string>
+    <string name="str4">Recents</string>
+    <string name="str5">Home</string>
+    <string name="str6">Back</string>
+    <string name="str7">Back Button on the left</string>
+    <string name="str8">Navigation Bar Location : </string>
+    <string name="oyla">Rate App</string>
+    <string name="market">My Other Apps</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/3843570541</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="str9">Size : </string>
+    <string name="str10">Transparency : </string>
+    <string name="str11">Long Press : </string>
+    <string name="str12">Change Location</string>
+    <string name="str13">Hide</string>
+    <string name="str14">Touch to show keys</string>
+    <string-array name="spiner_icin">
+        <item>Bottom</item>
+        <item>Right</item>
+        <item>Left</item>
+        <item>Top</item>
+    </string-array>
+</resources>
